@@ -1,8 +1,6 @@
 *{margin: 0;padding: 0;box-sizing: border-box;}
-header{ 
+header{
+    width: 100%;
+    background-color: aquamarine;
     height: 7vh;
-    margin: 100%;
-    background-color: rgb(32, 216, 216);
 }
-
-
